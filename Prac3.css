@@ -1,0 +1,25 @@
+
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  .navbar-brand{
+    font-size:larger;
+    color:yellow;
+    margin:5px;
+    border-radius: 10px;
+    font-style: italic;
+    
+    
+  }
+  #img1{
+    width:60%;
+    height:30%;
+    border-radius: 10px;
+    }
